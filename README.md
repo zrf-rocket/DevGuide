@@ -9,10 +9,18 @@
 [![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
 ![CTO Plus](https://img.shields.io/badge/微信公众号：CTO%20Plus-8A2BE2) 🥰
 
-<img src="./static/wechat.png" style="width:500px">
+## Contact
 
+![微信公众号](./static/wechat.png)  
+**< 微信公众号 >**
 
-**【代码工程系列】**
+![QQ技术交流群](./static/qq_link.png)  
+**< QQ技术交流群 >**
+
+![联系作者](./static/wechat.jpg)  
+**< 联系作者 >**
+
+## **【代码工程系列】**
 
 * [Python和Go的设计模式](https://github.com/zrf-rocket/DesignPattern)
     * GitHub：https://github.com/zrf-rocket/DesignPattern
@@ -97,9 +105,3 @@
 
 [编码规范](https://github.com/zrf-rocket/DevGuide)GitHub工程：https://github.com/zrf-rocket/DevGuide
 [安全编码规范](https://github.com/zrf-rocket/SecGuide)GitHub工程：https://github.com/zrf-rocket/SecGuide
-
-<img src="./static/qq_link.png" style="width:200px"><br>
-**< QQ技术交流群 >**
-
-<img src="./static/wechat.jpg" style="width:200px"><br>
-**< 联系作者 >**
