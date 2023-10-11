@@ -3,7 +3,7 @@
 **【关于我们】**
 
 * [Articulate v1.0](https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q)
-* [Articulate v2.0 待定.......]()
+* [Articulate v2.0](https://mp.weixin.qq.com/s/V5Axn-ZWi22ubh5Jiocb9g)
 
 [![](https://img.shields.io/badge/GitHub-zrf--rocket-blue?logo=gitpod)](https://github.com/zrf-rocket)
 [![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
@@ -76,6 +76,10 @@
     * GitHub：https://github.com/zrf-rocket/EDR_SOC
     * Gitee：https://gitee.com/SteveRocket/edr_soc
 
+* [安全运营中心（SOC）-信息资产采集与安全评估系统（ICSA）](https://github.com/zrf-rocket/SOC_ICSA)
+    * GitHub：https://github.com/zrf-rocket/SOC_ICSA
+    * Gitee：https://gitee.com/SteveRocket/SOC_ICSA
+
 * [DevSecOps-SDLC](https://github.com/zrf-rocket/DevSecOps-SDLC)
     * GitHub：https://github.com/zrf-rocket/DevSecOps-SDLC
     * Gitee：https://gitee.com/SteveRocket/dev-sec-ops-sdlc
@@ -86,5 +90,16 @@
 
 # Develop Guide
 
-#### Description
-编程语言C/CPP、Java、Python、go、JavaScript、PHP、HTML、Vue开发规范。
+#### 介绍
+
+为了保证团队项目开发中，使每个人看到项目的工程代码的风格一致，所以我创建了[本项目工程](https://gitee.com/SteveRocket/develop_guide.git)，通过代码示例的方式用于指明各类编程语言的开发规范，包括C/CPP、Java、Python、GoLang、JavaScript、PHP、HTML、Vue等开发规范。
+关于编码[安全开发规范](https://gitee.com/SteveRocket/security_guide.git)可以参考工程：https://gitee.com/SteveRocket/security_guide.git
+
+[编码规范](https://github.com/zrf-rocket/DevGuide)GitHub工程：https://github.com/zrf-rocket/DevGuide
+[安全编码规范](https://github.com/zrf-rocket/SecGuide)GitHub工程：https://github.com/zrf-rocket/SecGuide
+
+<img src="./static/qq_link.png" style="width:200px"><br>
+**< QQ技术交流群 >**
+
+<img src="./static/wechat.jpg" style="width:200px"><br>
+**< 联系作者 >**
